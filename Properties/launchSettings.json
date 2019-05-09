@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JBA": {
+      "commandName": "Project",
+      "commandLineArgs": "-r cru-ts-2-10.1991-2000-cutdown.pre"
+    }
+  }
+}
